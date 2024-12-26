@@ -1255,6 +1255,7 @@ img {
 
 /* ---------- Mobile Menu ---------- */
 
+
 @media screen and (min-width: 768px) {
   .mobile-menu__open {
     display: none;
